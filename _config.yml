@@ -34,7 +34,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 ### baseurl: "/public_html" # the subpath of your site, e.g. /blog
 url: "http://gregtrafton.com" # the base hostname & protocol for your site, e.g. http://example.com
 ##repository: my-awesome-site ## not sure what this is
-##port: 4444  ## Not needed when I am doing hosting (?)
+port: 4444  ## Not needed when I am doing hosting (?)
 
 # Build settings
 markdown: kramdown
