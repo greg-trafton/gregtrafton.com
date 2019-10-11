@@ -4,3 +4,6 @@
 
 layout: home
 ---
+<br>
+<br>
+<h1 style="font-family: courier"> I build embodied interactive systems that think like people. </h1>
