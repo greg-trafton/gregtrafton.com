@@ -6,4 +6,7 @@ layout: home
 ---
 <br>
 <br>
-<h1 style="font-family: courier"> I build embodied interactive systems that think like people. </h1>
+##<h1 style="font-family: courier"> I build embodied interactive systems that think like people. </h1>
+<h1 style="font-family: courier"> I build theories about how people perceive the world, think, learn,
+and interact. </h1>
+<h1 style="font-family: courier"> I put those theories on interfaces or embodied platforms. </h1>
