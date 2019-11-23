@@ -14,7 +14,7 @@ Intelligent Systems Section, Code 5515<br />Navy Center for Applied Research in 
 1989-1991 M.A., Princeton University, Princeton, NJ.<br />
 1985–1989 B.S. in Computer Science; Second major in psychology, Trinity University, San Antonio, TX.</p>
 <hr><br>
-[Curriculum Vitae]({{site.url}}/traftoncv.pdf)
+[Curriculum Vitae]({{site.url}}/papers/traftoncv.pdf)
 <hr><br>
 
 
