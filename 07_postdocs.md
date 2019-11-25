@@ -24,7 +24,7 @@ Application deadlines: February 1, May 1, August 1 and November 1. Applications 
 	 		<li>Perception</li>
 		</ul>
 	</li>
-	<li>Cognitive / AI
+	<li>Cognitive Science / Artificial Intelligence
 	 	<ul>
 	 		<li>Cognitive Architectures</li>
 	 		<li>Cognitive Modeling</li>
