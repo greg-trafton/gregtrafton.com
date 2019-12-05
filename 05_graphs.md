@@ -5,7 +5,7 @@ permalink: /graphical/
 ---
 <h3>Graphical Reasoning / Scientific Visualization</h3>
 <hr><br>
-<p>Kirschenbaum, S. S., Trafton, J. G., Schunn, C. D., &amp; Trickett, S. B. (2014). Visualizing Uncertainty: The impact on performance. Human Factors, (56(3) 509-520.</p>
+<p>Kirschenbaum, S. S., Trafton, J. G., Schunn, C. D., &amp; Trickett, S. B. (2014). <a href="https://journals.sagepub.com/doi/pdf/10.1177/0018720813498093" target="_blank">Visualizing Uncertainty: The impact on performance.</a> Human Factors, (56(3) 509-520.</p>
 <p>Jang, J., Trickett, S. B., Schunn, C. D., &amp; Trafton, J. G. (2012). Unpacking the temporal advantage of distributing complex visual displays. International Journal of Human Computer Studies, 70, 812-827.</p>
 <p>Beck, M. R., Lohrenz, M. C., &amp; Trafton, J. G. (2010). Measuring Search Efficiency in Complex Visual Search Tasks: Global and Local Clutter. Journal of Experimental Psychology: Applied. 16(3), 238-250.</p>
 <p>Breslow, L., Ratwani, R. M., &amp; Trafton, J. G. (2009). <a href="https://pdfs.semanticscholar.org/5d4d/7b645a89ed751be193e2e230300625eaea8f.pdf" target="_blank">Cognitive Models of the influence of type of color-scale on data visuallization tasks.</a> Human Factors. 51(3), 321-338.</p>

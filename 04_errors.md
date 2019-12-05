@@ -5,9 +5,9 @@ permalink: /errors/
 ---
 <h3>Predicting and Preventing Errors</h3>
 <hr><br>
-<p>Tamborello, F. &amp; Trafton, J. G. (2017). Human Error as an emergent property of action selection and task-place-holding. Human Factors, 59(3), 377-392.</p>
-<p>Altmann, E. M., Trafton, J. G., &amp; Hambrick, D. Z. (2017). Effects of Interruption Length on Procedural Errors. Journal of Experimental Psychology: Applied, 23, 216-229.</p>
-<p>Tamborello, F., &amp; Trafton, J. G. (2015). Action selection and human error in routine procedures. Human Factors and Ergonomics Conference 2015.</p>
+<p>Tamborello, F. &amp; Trafton, J. G. (2017). <a href="https://journals.sagepub.com/doi/pdf/10.1177/0018720816672529" target="_blank">Human Error as an emergent property of action selection and task-place-holding.</a> Human Factors, 59(3), 377-392.</p>
+<p>Altmann, E. M., Trafton, J. G., &amp; Hambrick, D. Z. (2017). <a href="https://psycnet.apa.org/fulltext/2017-04771-001.pdf" target="_blank">Effects of Interruption Length on Procedural Errors.</a> Journal of Experimental Psychology: Applied, 23, 216-229.</p>
+<p>Tamborello, F., &amp; Trafton, J. G. (2015). <a href="https://journals.sagepub.com/doi/pdf/10.1177/1541931215591145" target="_blank">Action selection and human error in routine procedures.</a> Human Factors and Ergonomics Conference 2015.</p>
 <p>Hiatt, L. M., &amp; Trafton, J. G. (2015). <a href="https://pdfs.semanticscholar.org/7bdc/f621cdbdcb01d950083df8d5f47a26cd2103.pdf" target="_blank">An activation-based model of routine sequence errors.</a> The international conference of cognitive modeling, 2015.</p>
 <p>Zish, K., &amp; Trafton, J. G. (2014). <a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a619257.pdf" target="_blank">Interruption Practice Reduces Errors.</a> Human Factors and Ergonomics Conference 2014.</p>
 <p>Tamborello, F. &amp; Trafton, J. G. (2013). <a href="https://escholarship.org/uc/item/0pq97336" target="_blank">A Long-Term Memory Competitive Process Model of a Common Procedural Error.</a> Proceedings of the 32nd Annual Cognitive Science Society. Austin, TX: Cognitive Science Society.</p>
@@ -20,5 +20,5 @@ permalink: /errors/
 <p>Ratwani, R. M. &amp; Trafton, J. G. (2009). <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.163.7011&rep=rep1&type=pdf" target="_blank">Developing a Predictive Model of Postcompletion Errors.</a> Cognitive Science 2009. [Winner of the 2009 Cognitive Science Conference Applied Cognition Modeling Prize]</p>
 <p>Ratwani, R. M., McCurry, J. M. &amp; Trafton, J. G. (2008). <a href="https://www.nrl.navy.mil/itd/aic/sites/www.nrl.navy.mil.itd.aic/files/pdfs/ratwani.chi08.pdf" target="_blank">Predicting post completion errors using eye movements.</a> Computer Human Interaction 2008 (CHI 2008). [NRL Alan Berman Award Winner]</p>
 <p>Ratwani, R. M., &amp; Trafton, J. G. (2007). <a href="https://escholarship.org/uc/item/9fn1k02r" target="_blank">Beyond the Time Cost of Interruptions on Primary Task Performance: Understanding Errors.</a> In D. S. McNamara &amp; J. G. Trafton (Eds.), Proceedings of the 29th Annual Cognitive Science Society. Austin, TX: Cognitive Science Society.</p>
-<p>Trafton, J. G., Wauchope, K., &amp; Stroup, J. (1997). Errors and usability of natural language in a multimodal system. The proceedings of the 15th International Joint Conference on Artificial Intelligence (IJCAI-97).</p>
+<p>Trafton, J. G., Wauchope, K., &amp; Stroup, J. (1997). <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.55.5095&rep=rep1&type=pdf" target="_blank">Errors and usability of natural language in a multimodal system.</a> The proceedings of the 15th International Joint Conference on Artificial Intelligence (IJCAI-97).</p>
 <hr>
