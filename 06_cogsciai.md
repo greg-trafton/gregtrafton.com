@@ -5,8 +5,8 @@ permalink: /cogsciai/
 ---
 <h3>Cognitive Science and AI</h3>
 <hr><br>
-<p>Zish, K., Aguiar, N., McCurry, J. M. &amp; Trafton, J. G. (2018). A memory for goals account for priming in confidence judgments: Data and a Model. The 40th Annual Cognitive Science Society Meeting.</p>
-<p>Zish, K., Aguiar, N., McCurry, J. M., Altmann, E. M. &amp; Trafton, J. G. (2018). The time course recovery of confidence judgments: Data and a Model. International Conference for Cognitive Modeling, 2018.</p>
+<p>Zish, K., Aguiar, N., McCurry, J. M. &amp; Trafton, J. G. (2018). <a href="/papers/Zish et al. 2018 Cog Sci.pdf" target="_blank">A memory for goals account for priming in confidence judgments: Data and a Model.</a> The 40th Annual Cognitive Science Society Meeting.</p>
+<p>Zish, K., Aguiar, N., McCurry, J. M., Altmann, E. M. &amp; Trafton, J. G. (2018). <a href="/papers/Zish et al. 2018.pdf" target="_blank">The time course recovery of confidence judgments: Data and a Model.</a> International Conference for Cognitive Modeling, 2018.</p>
 <p>Trafton, J. G., McCurry, J. M., Zish, K., Hiatt, L. M., &amp; Khemlani, S. (2017). <a href="https://pdfs.semanticscholar.org/535d/44f6ad4f940bd50c54011a74ea619b4394b9.pdf" target="_blank">A cognitive model of social influence.</a> The 39th Annual Cognitive Science Society Meeting.</p>
 <p>Hoffman, R. R., LaDue, D. S., Mogil, H.M., Trafton, J. G., &amp; Roebber, P. J. (2017). <a href="https://www.amazon.com/Minding-Weather-Expert-Forecasters-Think-ebook/dp/B074NW48G3" target="_blank">Minding the Weather: How expert forecasters think.</a> Boston, MA: MIT Press. </p>
 <p>Tamborello, F., Trafton, J. G., &amp; Altmann, E. M. (2015). <a href="https://pdfs.semanticscholar.org/62f6/c9c5f7a94101c4589c229aa06ef8c2e8a238.pdf" target="_blank">Memory processes of sequential action selection.</a> The 37th Annual Cognitive Science Society Meeting.</p>
