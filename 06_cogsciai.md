@@ -5,6 +5,7 @@ permalink: /cogsciai/
 ---
 <h3>Cognitive Science and AI</h3>
 <hr><br>
+<p>Trafton, J. G., Hiatt, L. M., Brumback, B., & McCurry, J. M. (2020, May). <a href="/papers/bigmodels_smalldata.pdf" target="_blank">Using Cognitive Models to Train Big Data Models with Small Data.</a> In Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems (pp. 1413-1421).</p>
 <p>Zish, K., Aguiar, N., McCurry, J. M. &amp; Trafton, J. G. (2018). <a href="/papers/Zish et al. 2018 Cog Sci.pdf" target="_blank">A memory for goals account for priming in confidence judgments: Data and a Model.</a> The 40th Annual Cognitive Science Society Meeting.</p>
 <p>Zish, K., Aguiar, N., McCurry, J. M., Altmann, E. M. &amp; Trafton, J. G. (2018). <a href="/papers/Zish et al. 2018.pdf" target="_blank">The time course recovery of confidence judgments: Data and a Model.</a> International Conference for Cognitive Modeling, 2018.</p>
 <p>Trafton, J. G., McCurry, J. M., Zish, K., Hiatt, L. M., &amp; Khemlani, S. (2017). <a href="https://pdfs.semanticscholar.org/535d/44f6ad4f940bd50c54011a74ea619b4394b9.pdf" target="_blank">A cognitive model of social influence.</a> The 39th Annual Cognitive Science Society Meeting.</p>
