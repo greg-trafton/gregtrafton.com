@@ -5,7 +5,6 @@ permalink: /graphical/
 ---
 <h3>Graphical Reasoning / Scientific Visualization</h3>
 <hr><br>
-<p>Trafton, J. G., Shah, P., Freedman, E. G., Kirschenbaum, S., & Cheng, P. C. (2019, April). <a href="/papers/traftonsymp.pdf" target="_blank">The Cognition of Complex Visualizations.</a> In Proceedings of the Twenty-fourth Annual Conference of the Cognitive Science Society (p. 18). Routledge.</p>
 <p>Kirschenbaum, S. S., Trafton, J. G., Schunn, C. D., &amp; Trickett, S. B. (2014). <a href="/papers/0018720813498093.pdf" target="_blank">Visualizing Uncertainty: The impact on performance.</a> Human Factors, (56(3) 509-520.</p>
 <p>Jang, J., Trickett, S. B., Schunn, C. D., &amp; Trafton, J. G. (2012). <a href="/papers/Unpacking_the_temporal_advantage_of_dist.pdf" target="_blank">Unpacking the temporal advantage of distributing complex visual displays.</a> International Journal of Human Computer Studies, 70, 812-827.</p>
 <p>Beck, M. R., Lohrenz, M. C., &amp; Trafton, J. G. (2010). Measuring Search Efficiency in Complex Visual Search Tasks: Global and Local Clutter. Journal of Experimental Psychology: Applied. 16(3), 238-250.</p>
