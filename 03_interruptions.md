@@ -5,7 +5,7 @@ permalink: /interruptions/
 ---
 <h3>Interruptions</h3>
 <hr><br>
-<p>Zish, K., McCurry, J. M., &amp; Trafton, J. G. (2020). <a href="/papers/step_specific.pdf" target="_blank">The benefits of practice with interruptions is step-specific.</a> In CogSci.</p>
+<p>Zish, K., McCurry, J. M., &amp; Trafton, J. G. (2020). <a href="/papers/step_specific.pdf" target="_blank">The benefits of practice with interruptions is step-specific.</a> The 42nd Annual Virtual Meeting of the Cognitive Science Society.</p>
 <p>Aguiar, N., Zish, K., McCurry, J. M. &amp; Trafton, J. G. (2018). <a href="/papers/Interruptions Lead to Improved Confidence-Accuracy Calibration_ Response Time as an Internal Cue for Confidence.pdf" target="_blank">Interruptions lead to improved confidence-accuracy calibration: Response time as an internal cue for confidence.</a> The 40th Annual Cognitive Science Society Meeting.</p>
 <p>Zish, K., McCurry, J. M., Aguiar, N., &amp; Trafton, J. G. (2017). <a href="/papers/0c8ecd8b566c720b55d292ee8f25c5e860c2.pdf" target="_blank">Interruptions reduce confidence judgments: Predictions of three sequential sampling models.</a> The 39th Annual Cognitive Science Society Meeting.</p>
 <p>Altmann, E. M., Trafton, J. G., &amp; Hambrick, D. Z. (2017). <a href="/papers/AltmannTraftonHambrickJEPA.pdf" target="_blank">Effects of Interruption Length on Procedural Errors.</a> Journal of Experimental Psychology: Applied, 23, 216-229.</p>
@@ -37,5 +37,5 @@ permalink: /interruptions/
 <p>Altmann, E. M., &amp; Trafton, J. G. (2004). <a href="/papers/task_interruption.pdf" target="_blank">Task interruption: Resumption lag and the role of cues.</a> The proceedings of the twenty-sixth annual conference of the cognitive science society.</p>
 <p>Trafton, J. G., Altmann, E. M., Brock, D. P., &amp; Mintz, F. E. (2003). <a href="/papers/preparing.to.resume.pdf" target="_blank">Preparing to resume an interrupted task: Effects of prospective goal encoding and retrospective rehearsal.</a> International Journal of Human-Computer Studies, 58(5), 583-603.</p>
 <p>Monk, C. M., Boehm-Davis, D. A., &amp; Trafton, J. G. (2002). <a href="/papers/attentional_cost.pdf" target="_blank">The attentional costs of interrupting task performance at various stages.</a> Proceedings of the Human Factors and Ergonomics Society 46th Annual Meeting.</p>
-<p>Altmann, E. M., &amp; Trafton, J. G. (1999, August). <a href="/papers/memory.for.goals.pdf" target="_blank">Memory for goals: An architectural perspective.</a> In Proceedings of the twenty-first annual meeting of the Cognitive Science Society (Vol. 19, p. 24). Erlbaum Hillsdale, NJ.</p>
+<p>Altmann, E. M., &amp; Trafton, J. G. (1999). <a href="/papers/memory.for.goals.pdf" target="_blank">Memory for goals: An architectural perspective.</a> In Proceedings of the twenty-first annual meeting of the Cognitive Science Society (Vol. 19, p. 24). Erlbaum Hillsdale, NJ.</p>
 <hr>
