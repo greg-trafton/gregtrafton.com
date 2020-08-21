@@ -37,5 +37,6 @@ permalink: /interruptions/
 <p>Altmann, E. M., &amp; Trafton, J. G. (2004). <a href="/papers/task_interruption.pdf" target="_blank">Task interruption: Resumption lag and the role of cues.</a> The proceedings of the twenty-sixth annual conference of the cognitive science society.</p>
 <p>Trafton, J. G., Altmann, E. M., Brock, D. P., &amp; Mintz, F. E. (2003). <a href="/papers/preparing.to.resume.pdf" target="_blank">Preparing to resume an interrupted task: Effects of prospective goal encoding and retrospective rehearsal.</a> International Journal of Human-Computer Studies, 58(5), 583-603.</p>
 <p>Monk, C. M., Boehm-Davis, D. A., &amp; Trafton, J. G. (2002). <a href="/papers/attentional_cost.pdf" target="_blank">The attentional costs of interrupting task performance at various stages.</a> Proceedings of the Human Factors and Ergonomics Society 46th Annual Meeting.</p>
+<p>Altmann, E. M., & Trafton, J. G. (2002). <a href="/papers/s15516709cog2601_2.pdf" target="_blank">Memory for goals: An activation‐based model.</a> Cognitive science, 26(1), 39-83.</p>
 <p>Altmann, E. M., &amp; Trafton, J. G. (1999). <a href="/papers/memory.for.goals.pdf" target="_blank">Memory for goals: An architectural perspective.</a> In Proceedings of the twenty-first annual meeting of the Cognitive Science Society (Vol. 19, p. 24). Erlbaum Hillsdale, NJ.</p>
 <hr>
