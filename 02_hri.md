@@ -5,6 +5,7 @@ permalink: /hri/
 ---
 <h3>Cognitive Robotics and Human Robot Interaction</h3>
 <hr><br>
+<p>Wright, B., Bugajska, M., Adams, W., Lawson, E., McCurry, J. M., & Trafton, J. G. (2020). <a href="/papers/ICSR_CRV_Final.pdf" target="_blank">Proxemic Reasoning for Group Approach. In International Conference on Social Robotics</a> (pp. 48-60). Springer, Cham.</p>
 <p>Lawson, W., Harrison, A. M., Vorm, E. S., & Trafton, J. G. (2020). <a href="/papers/joint_attention_estimator.pdf" target="_blank">Joint Attention Estimator.</a> In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (pp. 331-333).</p>
 <p>Mitchell, T. M., Dario D. Salvucci, John E. Laird, Franklin Chang, Kenneth D. Forbus, Parisa Kordjamshidi, Tom M. Mitchell, Shiwali Mohan, Michael Spranger, Suzanne Stevenson, Andrea Stocco, and J. Gregory Trafton (2019). <a href="https://mitpress.mit.edu/books/interactive-task-learning" target="_blank">Interactive Task Learning: Humans, Robots, and Agents Acquiring New Tasks through Natural Interactions, 26, 237.</a></p>
 <p>Korman, J., Harrison, A., McCurry, M., & Trafton, G. (2019). <a href="/papers/beyond_programming.pdf" target="_blank">Beyond programming: can robots' norm-violating actions elicit mental state attributions?</a> In 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 530-531). IEEE.</p>
