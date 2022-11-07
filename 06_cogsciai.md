@@ -5,6 +5,9 @@ permalink: /cogsciai/
 ---
 <h3>Cognitive Science and AI</h3>
 <hr><br>
+<p>Hiatt, L. M., Brooks, C., & Trafton, J. G. (2022). <a href="/papers/Validating and Refining Cognitive Process Models Using Probabilistic Graphical.pdf" target="_blank"> Validating and Refining Cognitive Process Models Using Probabilistic Graphical Models.</a> Topics in Cognitive Science.</p>
+<p>Blaha, L. M., Abrams, M., Bibyk, S. A., Bonial, C., Hartzler, B. M., Hsu, C. D., ... & Wong, R. (2022). <a href="/papers/understanding_is_a_process.pdf" target="_blank"> Understanding Is a Process.</a> Frontiers in Systems Neuroscience, 11.</p>
+<p>Howe, J. L., Young, C. R., Parau, C. A., Trafton, J. G., & Ratwani, R. M. (2021). <a href="/papers/covid19study.pdf" target="_blank">Accessibility and usability of state health department COVID-19 vaccine websites: a qualitative study.</a> JAMA Network Open, 4(5), e2114861-e2114861.</p>
 <p>Trafton, J. G., Hiatt, L. M., Brumback, B., & McCurry, J. M. (2020). <a href="/papers/bigmodels_smalldata.pdf" target="_blank">Using Cognitive Models to Train Big Data Models with Small Data.</a> In Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems (pp. 1413-1421).</p>
 <p>Zish, K., Aguiar, N., McCurry, J. M. &amp; Trafton, J. G. (2018). <a href="/papers/Zish et al. 2018 Cog Sci.pdf" target="_blank">A memory for goals account for priming in confidence judgments: Data and a Model.</a> The 40th Annual Cognitive Science Society Meeting.</p>
 <p>Zish, K., Aguiar, N., McCurry, J. M., Altmann, E. M. &amp; Trafton, J. G. (2018). <a href="/papers/Zish et al. 2018.pdf" target="_blank">The time course recovery of confidence judgments: Data and a Model.</a> International Conference for Cognitive Modeling, 2018.</p>
