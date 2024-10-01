@@ -5,6 +5,7 @@ permalink: /cogsciai/
 ---
 <h3>Cognitive Science and AI</h3>
 <hr><br>
+<p>Saad, L., McCurry, J. M., & Trafton, G. (2024). <a href="/papers/action_outcome_agency.pdf" target="_blank"> Action and outcome predictability impact sense of agency.</a> In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46).</p>
 <p>Hiatt, L. M., Brooks, C., & Trafton, J. G. (2022). <a href="/papers/Validating and Refining Cognitive Process Models Using Probabilistic Graphical.pdf" target="_blank"> Validating and Refining Cognitive Process Models Using Probabilistic Graphical Models.</a> Topics in Cognitive Science.</p>
 <p>Blaha, L. M., Abrams, M., Bibyk, S. A., Bonial, C., Hartzler, B. M., Hsu, C. D., ... & Wong, R. (2022). <a href="/papers/understanding_is_a_process.pdf" target="_blank"> Understanding Is a Process.</a> Frontiers in Systems Neuroscience, 11.</p>
 <p>Howe, J. L., Young, C. R., Parau, C. A., Trafton, J. G., & Ratwani, R. M. (2021). <a href="/papers/covid19study.pdf" target="_blank">Accessibility and usability of state health department COVID-19 vaccine websites: a qualitative study.</a> JAMA Network Open, 4(5), e2114861-e2114861.</p>
