@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'Agency'
+title: 
 permalink: /agency/
 ---
-<h3>Perceived Agency</h3>
+<h3 id="perceived-agency">Perceived Agency</h3>
 <hr><br>
 We have developed a survey that measures perceived agency.  It can be used on any entity
 (be it a robot, an AI, a person, an animal, or anything else). It has been tested on videos, images, and vignettes.
@@ -275,4 +275,7 @@ For the two scenarios, a 5-point scale was used with bookends of 'terrible' on t
     <td>Teaching computer science</td>
   </tr>  
 </table>
-<hr>
+<hr><hr><br>
+<h3 id="perceived-danger">Perceived Danger</h3>
+<hr><br>
+<p>We have developed a survey that measures Perceived Danger in robots... etc...</p>

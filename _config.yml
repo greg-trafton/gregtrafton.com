@@ -47,6 +47,7 @@ defaults:
     scope: # stores path
       path: "" # tells us which files we want the defaults to be applied to (empty string = all files)
     values: # default values 
+        layout: "page"  # Ensures the default layout is applied
         author: "Greg Trafton"
 
 # Exclude from processing.

@@ -1,0 +1,20 @@
+/* Set default margin and padding for all screens */
+body, .page, .wrapper {
+  margin: 0;
+  padding: 0;
+}
+
+/* Add default margin around content */
+body, .page, .wrapper {
+  margin-left: 20px;  /* Small margin on the left */
+  margin-right: 20px; /* Small margin on the right */
+}
+
+/* Optionally adjust for larger screens if necessary */	
+@media (min-width: 768px) {
+  body, .page, .wrapper {
+    max-width: 100% !important; /* Ensure it's full width */
+    margin-left: 30px;  /* Increase margin on larger screens */
+    margin-right: 30px; /* Increase margin on larger screens */
+  }
+}
