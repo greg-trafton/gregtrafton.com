@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Greg Trafton
-email: greg [.] trafton [at] nrl [.] navy [.] mil
+email: greg [.] j [.] trafton [.] civ [at] us [.] navy [.] mil
 #Write a description of Greg Trafton's research here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.

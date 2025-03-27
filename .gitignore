@@ -4,3 +4,4 @@ _site
 /videos/table1/bargaining1.mp4
 .DS_Store
 .bundle/config
+.ruby-version

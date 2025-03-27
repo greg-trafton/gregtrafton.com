@@ -9,8 +9,8 @@ permalink: /about/
 <p>Greg Trafton<br />
 Intelligent Systems Section, Code 5515<br />Navy Center for Applied
 Research in Artificial Intelligence<br />Naval Research Laboratory<br
-/>4555 Overlook Ave. SW<br />Washington, DC 20375<br />Email: greg [.]
-trafton [at] nrl [.] navy [.] mil<br /> </p>
+/>4555 Overlook Ave. SW<br />Washington, DC 20375<br />Email: greg [.] j [.]
+trafton [.] civ [at] us [.] navy [.] mil<br /> </p>
 <hr><br>
 <h4>Education</h4>
 <p>1989–1994 Ph.D, Princeton University, Princeton, NJ.<br />
