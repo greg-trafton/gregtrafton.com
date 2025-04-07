@@ -5,7 +5,7 @@ permalink: /hri/
 ---
 <h3>Cognitive Robotics and Human Robot Interaction</h3>
 <hr><br>
-<p>Molan, J., Saad, L., Roesler, E., McCurry, J. M., Gyory, N., Trafton, J. G. (2024). <a href="/papers/Perceived_Danger.pdf" target="_blank">The Perceived Danger (PD) Scale: Development and Validation.</a> HRI 2025.</p>
+<p>Molan, J., Saad, L., Roesler, E., McCurry, J. M., Gyory, N., Trafton, J. G. (2025). <a href="/papers/Perceived_Danger.pdf" target="_blank">The Perceived Danger (PD) Scale: Development and Validation.</a> HRI 2025.</p>
 <p>Trafton, J. G., McCurry, J. M., Zish, K., & Frazier, C. R. (2024). <a href="/papers/PerceptionOfAgency.pdf" target="_blank">The Perception of Agency.</a> ACM Transactions on Human-Robot Interaction.</p>
 <p>Trafton, J. G., Frazier, C. R., Zish, K., Bio, B. J., & McCurry, J. M. (2023, August). <a href="/papers/PAScaleReduction.pdf" target="_blank">The Perception of Agency: Scale Reduction and Construct Validity.</a> In 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 936-942). IEEE.</p>
 <p>Lawson, W., Harrison, A., Chang, M. L., Adams, W., & Trafton, J. G. (2022, August). <a href="/papers/Salient_Keypoints_for_Interactive_Meta-Learning_SKIML.pdf" target="_blank">Salient Keypoints for Interactive Meta-Learning (SKIML).</a> In 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1554-1561). IEEE.</p>

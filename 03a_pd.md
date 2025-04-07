@@ -7,7 +7,7 @@ permalink: /danger/
 <hr><br>
 We have developed a survey that measures perceived danger. We have also developed a shorted 4 item scale to measure perceived danger.  It is currently under review, but contact Greg if you need it.
 
-<p>Molan, J., Saad, L., Roesler, E., McCurry, J. M., Gyory, N., Trafton, J. G. (2024). <a href="/papers/Perceived_Danger.pdf" target="_blank">The Perceived Danger (PD) Scale: Development and Validation.</a> HRI 2025.</p>
+<p>Molan, J., Saad, L., Roesler, E., McCurry, J. M., Gyory, N., Trafton, J. G. (2025). <a href="/papers/Perceived_Danger.pdf" target="_blank">The Perceived Danger (PD) Scale: Development and Validation.</a> HRI 2025.</p>
 
 <h3>Scale</h3>
 
